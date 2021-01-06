@@ -2,8 +2,8 @@ import React from "react";
 import { Route } from "react-router-dom";
 import styled from "styled-components";
 import MM00 from "../MM00";
-import MM04 from "../MM04";
-import MM05 from "../MM05";
+import MM04 from "../../routers/MM04";
+import MM05 from "../../routers/MM05";
 
 const WholeWrapper = styled.div`
   width: 100%;
